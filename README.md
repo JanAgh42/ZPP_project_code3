@@ -1,4 +1,1 @@
-
-Another simple C program reading from and writing to basic .txt files.
-
-**ARCHIVED ON 19.2.2022**
+A simple C program that allows the user do add, edit, delete and read entries from a basic .txt file that contains fictional hotel reservations.
